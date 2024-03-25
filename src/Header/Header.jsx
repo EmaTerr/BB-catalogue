@@ -1,6 +1,6 @@
 import Nav from "../Navigation/Nav";
 import { AiOutlineShoppingCart, AiOutlineUserAdd } from "react-icons/ai";
-import logo from "../assets/logo.png";
+import logo from "../assets/react.svg";
 import SearchBar from "../Sidebar/SearchBar/SearchBar";
 import data from "../db/data";
 
